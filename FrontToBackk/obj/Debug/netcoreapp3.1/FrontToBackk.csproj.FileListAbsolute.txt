@@ -123,3 +123,8 @@ C:\Users\User\Desktop\FrontToBackk\FrontToBackk\bin\Debug\netcoreapp3.1\tr\Micro
 C:\Users\User\Desktop\FrontToBackk\FrontToBackk\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\Desktop\FrontToBackk\FrontToBackk\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductPartial.cshtml.g.cs
+C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\products\Default.cshtml.g.cs
+C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\User\Desktop\FrontToBackk\FrontToBackk\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs

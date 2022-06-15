@@ -1,4 +1,27 @@
 $(document).ready(function () {
+    //partial view
+    let skip = 2;
+    let productCount = $("#productCount").val();
+    $(document).on("click", "#loadmore", function () {
+        let productCount = $("#productCount").val();
+        $.ajax({
+            method: "get",
+            url: "product/loadmore?skip="+=skip,
+            success: function (res) {
+                skip += 2;
+                $("#listProduct").append(res);
+                if (skip > productCount) {
+                    $("#loadmore").remove();
+                }
+            }
+        })
+    })
+
+
+
+
+
+
 
     // HEADER
 
